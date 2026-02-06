@@ -1,9 +1,13 @@
 # Practica-2-DoS-mediante-el-protocolo-CDP-y-MitM-mediante-ARP.-gns3-y-scapy-
 
 **Asignatura:** Seguridad en Redes 
+
 **Estudiante:** Roberto de Jesus
+
 **Matrícula:** 2023-0348 
+
 **Profesor:** Jonathan Esteban Rondón 
+
 **Fecha:** Febrero 2026
 
 **Link del video**: https://youtu.be/s6Emg7BInSg
