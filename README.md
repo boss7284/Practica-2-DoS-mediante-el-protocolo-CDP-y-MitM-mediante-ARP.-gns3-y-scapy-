@@ -10,7 +10,7 @@
 
 **Fecha:** Febrero 2026
 
-**Link del video**: https://youtu.be/s6Emg7BInSg
+**Link del video**: https://youtu.be/_wscGbKKHwc
 ---
 
 # Herramientas de Auditoría de Seguridad en Redes
