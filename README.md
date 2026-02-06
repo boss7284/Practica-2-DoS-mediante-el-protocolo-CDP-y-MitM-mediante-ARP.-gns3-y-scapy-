@@ -216,3 +216,6 @@ interface range GigabitEthernet0/1-24
 - GNS3
 
 - Dispositivos Cisco IOS
+---
+>  **PS**  
+> Si te preguntas porque tengo 2 pcs y no 1 es porque planeo hacer ensayos con esa misma topologia.  
