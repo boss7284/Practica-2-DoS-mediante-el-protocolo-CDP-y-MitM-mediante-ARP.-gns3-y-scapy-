@@ -9,9 +9,7 @@
 - [Script 2: ARP MitM Attack](#-script-2-arp-mitm-attack)
 - [Requisitos del Sistema](#-requisitos-del-sistema)
 - [Medidas de Mitigación](#-medidas-de-mitigación)
-- [Conclusiones](#-conclusiones)
-- [Referencias](#-referencias)
-- [Consideraciones Legales](#-consideraciones-legales)
+
 
 ---
 
